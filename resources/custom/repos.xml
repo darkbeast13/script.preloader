@@ -3,10 +3,10 @@
         <url>https://jurialmunkey.github.io/repository.jurialmunkey/repository.jurialmunkey-3.4.zip</url>
     </repo>
     <repo name="repository.ivarbrandt.test">
-        <url>https://github.com/ivarbrandt/repository.ivarbrandt.test/raw/main/repository.ivarbrandt.test-1.0.1.zip</url>
+        <url>https://ivarbrandt.github.io/repository.ivarbrandt/repository.ivarbrandt-1.0.1.zip</url>
     </repo>
     <repo name="repository.thecrew">
-        <url>https://team-crew.github.io/repository.thecrew-0.3.6.zip</url>
+        <url>https://team-crew.github.io/repository.thecrew-0.3.7.zip</url>
     </repo>
     <repo name="plugin.video.fen">
         <url>https://umbrellaplug.github.io/omega/zips/plugin.video.fen/plugin.video.fen-3.5.02.zip</url>
@@ -15,7 +15,7 @@
         <url>https://umbrellaplug.github.io/omega/zips/plugin.video.fenlight/plugin.video.fenlight-2.0.07.zip</url>
     </repo>
     <repo name="skin.arctic.horizon.2">
-        <url>https://github.com/jurialmunkey/skin.arctic.horizon.2/archive/refs/tags/v0.8.27.zip</url>
+        <url>https://github.com/jurialmunkey/skin.arctic.horizon.2/archive/refs/tags/v0.8.29.zip</url>
     </repo>
     <repo name="repository.nixgates">
         <url>https://nixgates.github.io/packages/repository.nixgates-2.2.0.zip</url>
