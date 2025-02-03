@@ -2,8 +2,8 @@
     <repo name="repository.jurialmunkey">
         <url>https://jurialmunkey.github.io/repository.jurialmunkey/repository.jurialmunkey-3.4.zip</url>
     </repo>
-    <repo name="repository.ivarbrandt.test">
-        <url>https://ivarbrandt.github.io/repository.ivarbrandt/repository.ivarbrandt-1.0.1.zip</url>
+    <repo name="repository.ivarbrandt">
+        <url>https://github.com/ivarbrandt/repository.ivarbrandt/raw/refs/heads/master/repo/zips/repository.ivarbrandt/repository.ivarbrandt-1.0.1.zip</url>
     </repo>
     <repo name="repository.thecrew">
         <url>https://team-crew.github.io/repository.thecrew-0.3.7.zip</url>
