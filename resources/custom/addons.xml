@@ -15,7 +15,7 @@
     </addon>
     <addon name="skin.nimbus">
         <type>skin</type>
-        <repo>repository.ivarbrandt.test</repo>
+        <repo>repository.ivarbrandt</repo>
         <dependencies>
             <dependency>script.nimbus.helper</dependency>
             <dependency>script.embuary.info</dependency>
@@ -24,7 +24,7 @@
     </addon>
     <addon name="script.nimbus.helper">
         <type>script</type>
-        <repo>repository.ivarbrandt.test</repo>
+        <repo>repository.ivarbrandt</repo>
         <dependencies>
         </dependencies>
     </addon>
