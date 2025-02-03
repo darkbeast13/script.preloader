@@ -24,7 +24,7 @@
     </addon>
     <addon name="script.nimbus.helper">
         <type>script</type>
-        <repo>repository.ivarbrandt.test</repo>
+        <repo>repository.ivarbrandt.test.nimbus.helper</repo>
         <dependencies>
         </dependencies>
     </addon>
